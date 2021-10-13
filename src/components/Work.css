@@ -1,0 +1,40 @@
+.work-odd-overlay {
+    /* height: 100%;
+    width: 100%;
+    top: 100%;
+    position: absolute; */
+    background-color: whitesmoke;
+}
+.svg {
+    display: block;
+}
+.work h5 {
+    color: dimgrey;
+}
+.work hr {
+    margin-left: auto;
+    margin-right: auto;
+    width: 25vw;
+    height: 0.2rem;
+    background-color: black;
+    opacity: 100%;
+}
+.sm-icon img {
+    max-width: 6rem;
+}
+.proj-img img {
+    max-width: 80vw;
+}
+
+@media screen and (min-width: 767px){
+    .proj-img img  {
+        max-width: 100%;
+    }
+    .work hr {
+        margin-left: 0;
+        width: 10%;
+        height: 0.2rem;
+        background-color: black;
+        opacity: 100%;
+    }
+}

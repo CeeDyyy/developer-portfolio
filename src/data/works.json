@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Online Quizzes Project | QuizAnt",
+        "subtitle": "Web Application for Creating and Taking Quizzes",
+        "firstdescription": "QuizAnt is a web application made for making and doing quizzes, it can also be used to organise those quizzes into subjects they belong, which you can later follow or manage.",
+        "seconddescription": "This web application  was developed by Java Serviet which collaborated with Java Server Pages (JSP) and connect the database with Java Database Connectivity (JDBC), which is architected with Model-View-Controller (MVC) for development.",
+        "image": [
+            "https://cdn.discordapp.com/attachments/630762801878532116/897756761476460544/QuizAnt.png",
+            "QuizAnt"
+        ],
+        "date": "Nov 2019",
+        "tag": [
+            "https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png",
+            "https://www.seekpng.com/png/full/259-2595551_java-logo-transparent-47568-loadtve-jsp-servlet.png",
+            "https://cdn.solace.com/wp-content/uploads/2020/07/logo-java-jdbc.png"
+        ]
+    },
+    "2": {
+        "title": "Master Data",
+        "subtitle": "KMUTT's Database Structure and Relationships Analysis",
+        "firstdescription": "The university has been using the Database for quite a long time and has been continually worked on until it has become a Legacy System, thus the university is inviting students who's interested to come help us design and improve upon the Database.",
+        "seconddescription": "I myself and our team has been analysing the structure and relations of the current Database, and together we've designed the new Relational Database. While we were designing, we've had professors helping us guides our way through it before we proposed it to the university.",
+        "image": [
+            "https://cdn.discordapp.com/attachments/630762801878532116/897756763238047774/MasterData.png",
+            "Master Data"
+        ],
+        "date": "Jan - Dec 2020",
+        "tag": [
+            "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
+    ]
+    },
+    "3": {
+        "title": "Vice-chairperson of Pre-IT#26 Starter Pack",
+        "subtitle": "Online Boot Camp for New First-year IT Students at KMUTT",
+        "firstdescription": "Starter Pack is an online boot camp for new first-year IT students at KMUTT, to lay the foundation for knowledge and skills in the IT field in video form with the additional help from seniors for guidance afterwards.",
+        "seconddescription": "I am the vice-chairperson, tasked with planning out the courses. 4 subjects, Github, Programming, Web Technology, and Database. Further more, I'm also the part the instructing team on 2 subjects, Web Technology and Database. And this is one of the video from Web Technology.",
+        "image": [
+            "https://drive.google.com/file/d/1esxfLyYsCwSddI8i7x_gD3LWxa8mxQ0X/preview",
+            "Starter Pack"
+        ],
+        "date": "Jun - Jul 2020",
+        "tag": [
+            "webtech",
+            "database"
+        ]
+    },
+    "4": {
+        "title": "Team Senior Project | EvenPark",
+        "subtitle": "Web Application for Finding and Booking Parking Lots",
+        "firstdescription": "Evenpark is a web application for finding and booking parking lots for the event. Users that can use it to search for parking lots, the parking lots owner that can operate the service of the lots, and the event organizers that can add in more information related to the event.",
+        "seconddescription": "EvenPark was developed by ReactJS in the Front-end, Express/NodeJS in the Back-end and MySQL for database management, with both Front-end Express/NodeJS and Back-end uses NGINX, which all sections were on config on Docker which is hosted on Google Cloud Platform.",
+        "image": [
+            "https://cdn.discordapp.com/attachments/630762801878532116/897756775372165171/EvenPark.png",
+            "EvenPark"
+        ],
+        "date": "Jan 2021 - Present ",
+        "tag": [
+            "https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/1200px-Node.js_logo_2015.svg.png",
+            "https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png",
+            "https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/1200px-Nginx_logo.svg.png",
+            "https://blog.datath.com/wp-content/uploads/2019/03/5c861cd520daf_google-cloud-logo-1024x261.png"
+        ]
+    }
+}
