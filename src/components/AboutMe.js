@@ -23,7 +23,7 @@ function AboutMe() {
             <div className="scroll-down">
                 <a className="btn" href="#Portfolio">
                     <h2>Portfolio</h2>
-                    <h1 className="text-warning"><i className="bi bi-chevron-compact-down"></i></h1>
+                    <h1><i className="bi bi-chevron-compact-down"></i></h1>
                 </a>
             </div>
         </div>

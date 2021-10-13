@@ -18,9 +18,11 @@ const Contact = () => {
     return (
             <div className="contact">
                 <div className="contact-overlay">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 140"><path fill="#fff" fill-opacity="1" d="M0,96L720,128L1440,96L1440,0L720,0L0,0Z"></path></svg>
                     <div className="container">
-                    <h1 className="contact-h1">Contact Me</h1>
-                        <div className="row row-cols-1 row-cols-md-2 g-4">
+                    <h1 className="text-center my-3 text-white">CONTACT</h1>
+                    <hr />
+                        <div className="row row-cols-1 row-cols-md-2 g-4 mt-3">
                             <div className="col-sm-5 contact-details-overlay">
                                 <div className="container">
                                     <div className="contact-text"><i className="bi bi-telephone-fill"></i> 09-8891-9515</div>
@@ -32,7 +34,6 @@ const Contact = () => {
                                 <div className="container">
 
                                     <form
-                                        className="row"
                                         // style={{ margin: "25px 85px 75px 100px" }}
                                         onSubmit={sendEmail}
                                     >
@@ -44,7 +45,7 @@ const Contact = () => {
                                         <input
                                             type="submit"
                                             value="Send"
-                                            className="form-control btn btn-secondary"
+                                            className="form-control btn"
                                             style={{ marginTop: "30px" }}
                                         />
                                     </form>
