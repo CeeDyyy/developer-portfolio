@@ -19,8 +19,14 @@
     margin-bottom: 1rem;
     /* filter: grayscale(100%); */
 }
-.container h1 {
-    text-align: center
+.aboutme h4 {
+    color: #6E5E5E;
+    font-weight: lighter;
+}
+.aboutme hr {
+    height: 0.2rem;
+    background-color: #FDD303;
+    opacity: 100%;
 }
 .scroll-down{
     color: black;
@@ -31,12 +37,15 @@
 }
 .scroll-down h2 {
     line-height: 0;
+    color: #6E5E5E;
 }
 
 @media screen and (max-width: 517px){
     .mt-5 img {
         width: 60%;
     }
+}
+@media screen and (max-width: 767px), screen and (max-height: 840px){
     .scroll-down {
         visibility: hidden;
     }

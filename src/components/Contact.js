@@ -23,9 +23,9 @@ const Contact = () => {
                         <div className="row row-cols-1 row-cols-md-2 g-4">
                             <div className="col-sm-5 contact-details-overlay">
                                 <div className="container">
-                                    <div className="contact-text"><i class="bi bi-telephone-fill"></i> 09-8891-9515</div>
-                                    <div className="contact-text"><i class="bi bi-envelope-fill"></i> thanawat.udchachon@gmail.com</div>
-                                    <div className="contact-text"><i class="bi bi-geo-alt-fill"></i> 79/355 Pudtan Village, Soi Petchkasem 81, Ma Charoen Road, Nong Khaem Sub-district, Nong Khaem District, Bangkok, 10160</div>
+                                    <div className="contact-text"><i className="bi bi-telephone-fill"></i> 09-8891-9515</div>
+                                    <div className="contact-text"><i className="bi bi-envelope-fill"></i> thanawat.udchachon@gmail.com</div>
+                                    <div className="contact-text"><i className="bi bi-geo-alt-fill"></i> 79/355 Pudtan Village, Soi Petchkasem 81, Ma Charoen Road, Nong Khaem Sub-district, Nong Khaem District, Bangkok, 10160</div>
                                 </div>
                             </div>
                             <div className="col-sm-7">

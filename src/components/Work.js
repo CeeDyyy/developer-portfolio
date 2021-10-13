@@ -26,7 +26,7 @@ function Work() {
                                         <div className="row">
                                             <h5>{WorkData[key].date}</h5>
                                         </div>
-                                        <hr/>
+                                        <hr />
                                         <div className="row">
                                             <p>{WorkData[key].firstdescription}</p>
                                         </div>
@@ -37,12 +37,14 @@ function Work() {
                                 </div>
                             </div>
                         </section>
-                        <div className="container row mt-3">
-                            {WorkData[key].tag.map(tag => (
-                                <div className="col sm-icon d-flex align-items-center justify-content-center mb-4">
-                                    <img src={tag} alt="" />
-                                </div>
-                            ))}
+                        <div className="container">
+                            <div className="row mt-3 justify-content-center">
+                                {WorkData[key].tag.map(tag => (
+                                    <div className="col sm-icon d-flex align-items-center justify-content-center mb-4">
+                                        <img src={tag} alt="" />
+                                    </div>
+                                ))}
+                            </div>
                         </div>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 80"><path fill="#fff" fill-opacity="1" d="M0,32L1440,0L1440,320L0,320Z"></path></svg>
                     </div>
@@ -65,7 +67,7 @@ function Work() {
                                         <div className="row">
                                             <h5>{WorkData[key].date}</h5>
                                         </div>
-                                        <hr/>
+                                        <hr />
                                         <div className="row">
                                             <p>{WorkData[key].firstdescription}</p>
                                         </div>
@@ -76,12 +78,14 @@ function Work() {
                                 </div>
                             </div>
                         </section>
-                        <div className="container row mt-3">
-                            {WorkData[key].tag.map(tag => (
-                                <div className="col sm-icon d-flex align-items-center justify-content-center">
-                                    <img src={tag} alt="" />
-                                </div>
-                            ))}
+                        <div className="container">
+                            <div className="row mt-3 justify-content-center">
+                                {WorkData[key].tag.map(tag => (
+                                    <div className="col sm-icon d-flex align-items-center justify-content-center">
+                                        <img src={tag} alt="" />
+                                    </div>
+                                ))}
+                            </div>
                         </div>
                     </div>
                 )
