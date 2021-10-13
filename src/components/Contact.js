@@ -23,7 +23,7 @@ const Contact = () => {
                     <h1 className="text-center my-3 text-white">CONTACT</h1>
                     <hr />
                         <div className="row row-cols-1 row-cols-md-2 g-4 mt-3">
-                            <div className="col-sm-5 contact-details-overlay">
+                            <div className="col-sm-5">
                                 <div className="container">
                                     <div className="contact-text"><i className="bi bi-telephone-fill"></i> 09-8891-9515</div>
                                     <div className="contact-text"><i className="bi bi-envelope-fill"></i> thanawat.udchachon@gmail.com</div>

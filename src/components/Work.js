@@ -38,7 +38,7 @@ function Work() {
                             </div>
                         </section>
                         <div className="container">
-                            <div className="row mt-3 justify-content-center">
+                            <div className="row mt-3">
                                 {WorkData[key].tag.map(tag => (
                                     <div className="col sm-icon d-flex align-items-center justify-content-center mb-4">
                                         <img src={tag} alt="" />
@@ -79,7 +79,7 @@ function Work() {
                             </div>
                         </section>
                         <div className="container">
-                            <div className="row mt-3 justify-content-center">
+                            <div className="row mt-3">
                                 {WorkData[key].tag.map(tag => (
                                     <div className="col sm-icon d-flex align-items-center justify-content-center">
                                         <img src={tag} alt="" />

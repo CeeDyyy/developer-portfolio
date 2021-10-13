@@ -17,7 +17,7 @@
     width: 25vw;
     height: 0.2rem;
     background-color: #FDD303;
-    opacity: 100%;
+    opacity: 100;
 }
 .sm-icon img {
     max-width: 6rem;
@@ -35,6 +35,6 @@
         width: 10%;
         height: 0.2rem;
         background-color: #FDD303;
-        opacity: 100%;
+        opacity: 100;
     }
 }
