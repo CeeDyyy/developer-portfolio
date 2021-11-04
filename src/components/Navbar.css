@@ -1,5 +1,5 @@
 :root {
-    --primary-grey: #444;
+    --primary-grey: #14213d;
     --primary-dark: rgba(255,255,255, 0)
   }
   
@@ -46,4 +46,5 @@ body {
   b {
     margin: 1rem;
     letter-spacing: 0.1em;
+    color: #14213d;
   }

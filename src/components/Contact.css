@@ -7,7 +7,7 @@
 }
 .contact-overlay{
     /* height: 500px; */
-    background: #6E5E5E;
+    background: #14213d;
     padding-bottom: 3rem;
 }
 .contact hr {
@@ -15,7 +15,7 @@
     margin-right: auto;
     width: 7rem;
     height: 0.3rem;
-    background-color: #FDD303;
+    background-color: #fca311;
     opacity: 100;
 }
 .contact-text {
@@ -27,5 +27,8 @@ input {
     margin-bottom: 1rem;
 }
 .contact .btn {
-    background-color: #FDD303;
+    background-color: #fca311;
+}
+.contact .icon-color {
+    color: #fca311;
 }

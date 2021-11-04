@@ -3,20 +3,20 @@
     width: 100%;
     top: 100%;
     position: absolute; */
-    background-color: whitesmoke;
+    background-color: #eaeaea;
 }
 .svg {
     display: block;
 }
 .work h5 {
-    color: #6E5E5E;
+    color: #14213d;
 }
 .work hr {
     margin-left: auto;
     margin-right: auto;
     width: 25vw;
     height: 0.2rem;
-    background-color: #FDD303;
+    background-color: #fca311;
     opacity: 100;
 }
 .sm-icon img {
@@ -34,7 +34,7 @@
         margin-left: 0;
         width: 10%;
         height: 0.2rem;
-        background-color: #FDD303;
+        background-color: #fca311;
         opacity: 100;
     }
 }

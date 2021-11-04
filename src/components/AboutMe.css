@@ -20,12 +20,12 @@
     /* filter: grayscale(100%); */
 }
 .aboutme h4 {
-    color: #6E5E5E;
+    color: #14213d;
     font-weight: lighter;
 }
 .aboutme hr {
     height: 0.2rem;
-    background-color: #FDD303;
+    background-color: #fca311;
     opacity: 100;
 }
 .scroll-down{
@@ -37,10 +37,10 @@
 }
 .scroll-down h2 {
     line-height: 0;
-    color: #6E5E5E;
+    color: #14213d;
 }
 .scroll-down h1 {
-    color: #FDD303;
+    color: #fca311;
 }
 
 @media screen and (max-width: 517px){
