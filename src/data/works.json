@@ -3,7 +3,7 @@
         "title": "Online Quizzes Project | QuizAnt",
         "subtitle": "Web Application for Creating and Taking Quizzes",
         "firstdescription": "QuizAnt is a web application made for making and doing quizzes, it can also be used to organise those quizzes into subjects they belong, which you can later follow or manage.",
-        "seconddescription": "This web application  was developed by Java Serviet which collaborated with Java Server Pages (JSP) and connect the database with Java Database Connectivity (JDBC), which is architected with Model-View-Controller (MVC) for development.",
+        "seconddescription": "This web application  was developed by Java Serviet which collaborated with Java Server Pages (JSP) and connect the database with Java™ EE Database Connectivity (JDBC), which is architected with Model-View-Controller (MVC) for development.",
         "image": [
             "https://cdn.discordapp.com/attachments/630762801878532116/897756761476460544/QuizAnt.png",
             "QuizAnt"
@@ -12,7 +12,7 @@
         "tag": [
             "https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png",
             "https://www.seekpng.com/png/full/259-2595551_java-logo-transparent-47568-loadtve-jsp-servlet.png",
-            "https://cdn.solace.com/wp-content/uploads/2020/07/logo-java-jdbc.png"
+            "https://aerospike.com/wp-content/uploads/2020/01/Java-JDBC-logo-240x140.png"
         ]
     },
     "2": {
@@ -35,7 +35,7 @@
         "firstdescription": "Starter Pack is an online boot camp for new first-year IT students at KMUTT, to lay the foundation for knowledge and skills in the IT field in video form with the additional help from seniors for guidance afterwards.",
         "seconddescription": "I am the vice-chairperson, tasked with planning out the courses. 4 subjects, Github, Programming, Web Technology, and Database. Further more, I'm also the part the instructing team on 2 subjects, Web Technology and Database. And this is one of the video from Web Technology.",
         "image": [
-            "https://drive.google.com/file/d/1esxfLyYsCwSddI8i7x_gD3LWxa8mxQ0X/preview",
+            "https://mailkmuttacth-my.sharepoint.com/:v:/g/personal/thanawat_ud_mail_kmutt_ac_th/EeEDcN-ELp9HvS-7T8SGxGsBT8QoKfMawEr4Mvl1z0UODA?e=htbGuJ",
             "Starter Pack"
         ],
         "date": "Jun - Jul 2020",
@@ -53,14 +53,47 @@
             "https://cdn.discordapp.com/attachments/630762801878532116/897756775372165171/EvenPark.png",
             "EvenPark"
         ],
-        "date": "Jan 2021 - Present ",
+        "date": "Jan - Dec 2021",
         "tag": [
             "https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png",
             "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/1200px-Node.js_logo_2015.svg.png",
             "https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png",
-            "https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png",
+            "https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png",
             "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/1200px-Nginx_logo.svg.png",
             "https://blog.datath.com/wp-content/uploads/2019/03/5c861cd520daf_google-cloud-logo-1024x261.png"
+        ]
+    },
+    "5": {
+        "title": "Internship @BorntoDev | Devlab",
+        "subtitle": "Website for Practicing Programing Skills",
+        "firstdescription": "Devlab is website for Practicing Programing Skills that support various programing languages. It also has ranking and compitition system compete with other users.",
+        "seconddescription": "I mostly focus on developing front-end using ReactJS, using Basecamp for working with team. During the internship, I also wrote an article about IT on Borntodev's website once a week.",
+        "image": [
+            "https://cdn.discordapp.com/attachments/1063408465038548992/1063408538405322782/devlab.png",
+            "Devlab"
+        ],
+        "date": "Jan - Apr 2022",
+        "tag": [
+            "https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png",
+            "https://miro.medium.com/max/1400/1*Smbj_VLH7JRp9GhLaKyiUQ.png",
+            "https://basecamp.com/assets/press/basecamp-logo-de80e15792a63769fe1cc0b09739b593055e4ce4b7f1a9d5dc7a50c1c5685cba.svg"
+        ]
+    },
+    "6": {
+        "title": "Freelance @A+ Projects | Educational Smart Factory Platform",
+        "subtitle": "Website for Practicing Programing Skills",
+        "firstdescription": "Developed front-end website using ReactJS and VueJS.",
+        "seconddescription": "I have also worked on DNS management using Hostneverdie Web Hosting.",
+        "image": [
+            "https://cdn.discordapp.com/attachments/1063408465038548992/1063421812861571082/A_Projects.png",
+            "A+ Projects"
+        ],
+        "date": "Dec 2022 - Present",
+        "tag": [
+            "https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png",
+            "https://miro.medium.com/max/1400/1*Smbj_VLH7JRp9GhLaKyiUQ.png",
+            "https://www.positivethinking.tech/wp-content/uploads/2021/01/Logo-Vuejs.png",
+            "https://www.hostneverdie.com/img/logo2.svg"
         ]
     }
 }

@@ -7,7 +7,7 @@ function AboutMe() {
         <div className="aboutme">
             <div className="container col-10 col-lg-8 col-xxl-6">
                 <div className="mt-5 mb-4">
-                    <img src="https://cdn.discordapp.com/attachments/630762801878532116/897067922059567104/DSC3441.png" alt="" />
+                    <img src={SET.pic} alt="" />
                     <h1 className="text-center">Thanawat Udchachon</h1>
                     <h4 className="text-center">{SET.subtitle}</h4>
                 </div>
