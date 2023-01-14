@@ -27,7 +27,7 @@ const Contact = () => {
                             <div className="container">
                                 <div className="contact-text"><i className="bi bi-telephone-fill icon-color"></i> 09-8891-9515</div>
                                 <div className="contact-text"><i className="bi bi-envelope-fill icon-color"></i> thanawat.udchachon@gmail.com</div>
-                                <div className="contact-text"><i className="bi bi-geo-alt-fill icon-color"></i> Nong Khaem Sub-district, Nong Khaem District, Bangkok, 10160</div>
+                                <div className="contact-text"><i className="bi bi-geo-alt-fill icon-color"></i> Nong Khaem District, Bangkok, 10160</div>
                             </div>
                         </div>
                         <div className="col-sm-7">
